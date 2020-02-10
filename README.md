@@ -2,9 +2,9 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## Link to the DEMO - https://dry-escarpment-00704.herokuapp.com/
 
-## Available Scripts
+## How to run project locally
 
-In the project directory, you can run:
+Clone or download this repository and run 'npm install' command.
 
 ### `npm start`
 
